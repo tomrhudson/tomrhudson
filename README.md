@@ -3,14 +3,18 @@
 <!--
 **tomrhudson/tomrhudson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img width="300px" align="right" src="https://avatars3.githubusercontent.com/u/944610?s=460&u=4b323a6cacfd2e10cbea804706145b4998d9a278&v=4"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👋 Tom’s GitHub Profile 👋
+
+Hey there, my name is Tom Hudson. I started programming at a very young age, learning Atari BASIC on an Atari XEGS <https://en.wikipedia.org/wiki/Atari_XEGS>. I then moved into BASIC on an Apple IIe, then onto Pascal and dBase all while in middle school and high school. Professionally, my experience in programming was fat-client or n-tier architecture, often utilizing Oracle or SQL Server backends, VB, ASP, and some C#.
+
+
+I currently live in Portsmouth, New Hampshire and provide IT & Quality [consulting services](https://www.linkedin.com/in/hudsonthomas/) in the medical device sector. I also teach meditation, [yoga, and am an mindful outdoor guide](https://tom-hudson.com).
+
+After a 15+ years programming hiatus, I’m delving back into code and currently learning the following:
+
+- HTML / CSS / Bootstrap / JavaScript
+- Node.js
+- React.js
+- MongoDB
