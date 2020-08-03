@@ -1,4 +1,4 @@
-<img width="300px" align="right" src="https://avatars3.githubusercontent.com/u/944610?s=460&u=4b323a6cacfd2e10cbea804706145b4998d9a278&v=4"/>
+<img width="300px" align="right" src="https://avatars0.githubusercontent.com/u/944610?s=400&v=4"/>
 
 ### 👋 Tom’s GitHub Profile 👋
 
