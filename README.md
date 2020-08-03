@@ -10,6 +10,8 @@ I currently live in Portsmouth, New Hampshire and provide IT & Quality [consulti
 After a 15+ years programming hiatus, I’m delving back into code and currently learning the following:
 
 - HTML / CSS / Bootstrap / JavaScript
-- Node.js
-- React.js
-- MongoDB
+- MERN Stack
+-- MongoDB - document database
+-- Express(js) - web framework
+-- React(js) - client-side JavaScript framework
+-- Node(js) - JavaScript web server
