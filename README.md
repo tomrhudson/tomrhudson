@@ -11,7 +11,7 @@ After a 15+ years programming hiatus, I’m delving back into code and currently
 
 - HTML / CSS / Bootstrap / JavaScript
 - MERN Stack
-= MongoDB - document database
-= Express(js) - web framework
-= React(js) - client-side JavaScript framework
-= Node(js) - JavaScript web server
+- MongoDB = document database
+- Express(js) = web framework
+- React(js) = client-side JavaScript framework
+- Node(js) = JavaScript web server
