@@ -15,3 +15,5 @@ After a 15+ years programming hiatus, I’m delving back into code and currently
 - Express(js) = web framework
 - React(js) = client-side JavaScript framework
 - Node(js) = JavaScript web server
+
+[![Tom's github stats](https://github-readme-stats.vercel.app/api?username=tomrhudson)](https://github.com/anuraghazra/github-readme-stats)
