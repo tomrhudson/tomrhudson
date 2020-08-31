@@ -20,3 +20,4 @@ After a 15+ years programming hiatus, I’m delving back into code and currently
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomrhudson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
