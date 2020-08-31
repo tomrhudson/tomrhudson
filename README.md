@@ -20,4 +20,9 @@ After a 15+ years programming hiatus, I’m delving back into code and currently
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomrhudson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com//tomrhudson/great-calc/pull/1) in [tomrhudson/great-calc](https://github.com//tomrhudson/great-calc)
+2. ❌ Reopened PR [#1](https://github.com//tomrhudson/great-calc/pull/1) in [tomrhudson/great-calc](https://github.com//tomrhudson/great-calc)
+3. ❌ Closed PR [#1](https://github.com//tomrhudson/great-calc/pull/1) in [tomrhudson/great-calc](https://github.com//tomrhudson/great-calc)
+4. 🗣 Commented on [#1](https://github.com//tomrhudson/great-calc/issues/1) in [tomrhudson/great-calc](https://github.com//tomrhudson/great-calc)
+5. 💪 Opened PR [#1](https://github.com//tomrhudson/great-calc/pull/1) in [tomrhudson/great-calc](https://github.com//tomrhudson/great-calc)
 <!--END_SECTION:activity-->
