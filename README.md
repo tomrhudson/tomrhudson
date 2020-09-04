@@ -1,6 +1,3 @@
-<img width="300px" align="right" src="https://avatars0.githubusercontent.com/u/944610?s=400&u=fb8c6d478516a2b58c509df81473679555288148&v=4"/>
-
-
 ### 👋 Tom’s GitHub Profile 👋
 
 Hey there, my name is Tom Hudson. I started programming at a very young age, learning Atari BASIC on an [Atari XEGS](https://en.wikipedia.org/wiki/Atari_XEGS). I then moved into BASIC on an Apple IIe, then onto Pascal and dBase all while in middle school and high school. Professionally, my experience in programming was fat-client or n-tier architecture, often utilizing Oracle or SQL Server backends, VB, ASP, and some C#.
