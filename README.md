@@ -18,9 +18,9 @@ After a 15+ years programming hiatus, I’m delving back into code and currently
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomrhudson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com//tomrhudson/getting-started-checklist/issues/4) in [tomrhudson/getting-started-checklist](https://github.com//tomrhudson/getting-started-checklist)
-2. 🗣 Commented on [#4](https://github.com//tomrhudson/getting-started-checklist/issues/4) in [tomrhudson/getting-started-checklist](https://github.com//tomrhudson/getting-started-checklist)
-3. ❗️ Opened issue [#5](https://github.com//tomrhudson/getting-started-checklist/issues/5) in [tomrhudson/getting-started-checklist](https://github.com//tomrhudson/getting-started-checklist)
-4. ❗️ Opened issue [#4](https://github.com//tomrhudson/getting-started-checklist/issues/4) in [tomrhudson/getting-started-checklist](https://github.com//tomrhudson/getting-started-checklist)
-5. ❗️ Opened issue [#3](https://github.com//tomrhudson/getting-started-checklist/issues/3) in [tomrhudson/getting-started-checklist](https://github.com//tomrhudson/getting-started-checklist)
+1. 🗣 Commented on [#10](https://github.com//chingu-voyages/v23-toucans-team-02/issues/10) in [chingu-voyages/v23-toucans-team-02](https://github.com//chingu-voyages/v23-toucans-team-02)
+2. ❗️ Closed issue [#4](https://github.com//tomrhudson/getting-started-checklist/issues/4) in [tomrhudson/getting-started-checklist](https://github.com//tomrhudson/getting-started-checklist)
+3. 🗣 Commented on [#4](https://github.com//tomrhudson/getting-started-checklist/issues/4) in [tomrhudson/getting-started-checklist](https://github.com//tomrhudson/getting-started-checklist)
+4. ❗️ Opened issue [#5](https://github.com//tomrhudson/getting-started-checklist/issues/5) in [tomrhudson/getting-started-checklist](https://github.com//tomrhudson/getting-started-checklist)
+5. ❗️ Opened issue [#4](https://github.com//tomrhudson/getting-started-checklist/issues/4) in [tomrhudson/getting-started-checklist](https://github.com//tomrhudson/getting-started-checklist)
 <!--END_SECTION:activity-->
