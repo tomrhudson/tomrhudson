@@ -18,9 +18,9 @@ After a 15+ years programming hiatus, I’m delving back into code and currently
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomrhudson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//tomrhudson/getting-started-checklist/pull/1) in [tomrhudson/getting-started-checklist](https://github.com//tomrhudson/getting-started-checklist)
-2. 💪 Opened PR [#1](https://github.com//tomrhudson/getting-started-checklist/pull/1) in [tomrhudson/getting-started-checklist](https://github.com//tomrhudson/getting-started-checklist)
-3. 💪 Opened PR [#13](https://github.com//chingu-voyages/v23-toucans-team-02/pull/13) in [chingu-voyages/v23-toucans-team-02](https://github.com//chingu-voyages/v23-toucans-team-02)
-4. 🎉 Merged PR [#1](https://github.com//tomrhudson/great-calc/pull/1) in [tomrhudson/great-calc](https://github.com//tomrhudson/great-calc)
-5. ❌ Reopened PR [#1](https://github.com//tomrhudson/great-calc/pull/1) in [tomrhudson/great-calc](https://github.com//tomrhudson/great-calc)
+1. ❗️ Opened issue [#5](https://github.com//tomrhudson/getting-started-checklist/issues/5) in [tomrhudson/getting-started-checklist](https://github.com//tomrhudson/getting-started-checklist)
+2. ❗️ Opened issue [#4](https://github.com//tomrhudson/getting-started-checklist/issues/4) in [tomrhudson/getting-started-checklist](https://github.com//tomrhudson/getting-started-checklist)
+3. ❗️ Opened issue [#3](https://github.com//tomrhudson/getting-started-checklist/issues/3) in [tomrhudson/getting-started-checklist](https://github.com//tomrhudson/getting-started-checklist)
+4. ❗️ Opened issue [#2](https://github.com//tomrhudson/getting-started-checklist/issues/2) in [tomrhudson/getting-started-checklist](https://github.com//tomrhudson/getting-started-checklist)
+5. 🗣 Commented on [#2](https://github.com//Jasonnor/README.md/issues/2) in [Jasonnor/README.md](https://github.com//Jasonnor/README.md)
 <!--END_SECTION:activity-->
