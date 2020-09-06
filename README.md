@@ -18,9 +18,9 @@ After a 15+ years programming hiatus, I’m delving back into code and currently
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomrhudson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#20](https://github.com//chingu-voyages/v23-toucans-team-02/pull/20) in [chingu-voyages/v23-toucans-team-02](https://github.com//chingu-voyages/v23-toucans-team-02)
-2. 🗣 Commented on [#20](https://github.com//chingu-voyages/v23-toucans-team-02/issues/20) in [chingu-voyages/v23-toucans-team-02](https://github.com//chingu-voyages/v23-toucans-team-02)
-3. 🎉 Merged PR [#13](https://github.com//chingu-voyages/v23-toucans-team-02/pull/13) in [chingu-voyages/v23-toucans-team-02](https://github.com//chingu-voyages/v23-toucans-team-02)
-4. 🗣 Commented on [#10](https://github.com//chingu-voyages/v23-toucans-team-02/issues/10) in [chingu-voyages/v23-toucans-team-02](https://github.com//chingu-voyages/v23-toucans-team-02)
-5. ❗️ Closed issue [#4](https://github.com//tomrhudson/getting-started-checklist/issues/4) in [tomrhudson/getting-started-checklist](https://github.com//tomrhudson/getting-started-checklist)
+1. 🎉 Merged PR [#7](https://github.com//tomrhudson/getting-started-checklist/pull/7) in [tomrhudson/getting-started-checklist](https://github.com//tomrhudson/getting-started-checklist)
+2. 💪 Opened PR [#7](https://github.com//tomrhudson/getting-started-checklist/pull/7) in [tomrhudson/getting-started-checklist](https://github.com//tomrhudson/getting-started-checklist)
+3. 🎉 Merged PR [#6](https://github.com//tomrhudson/getting-started-checklist/pull/6) in [tomrhudson/getting-started-checklist](https://github.com//tomrhudson/getting-started-checklist)
+4. 💪 Opened PR [#6](https://github.com//tomrhudson/getting-started-checklist/pull/6) in [tomrhudson/getting-started-checklist](https://github.com//tomrhudson/getting-started-checklist)
+5. ❌ Closed PR [#20](https://github.com//chingu-voyages/v23-toucans-team-02/pull/20) in [chingu-voyages/v23-toucans-team-02](https://github.com//chingu-voyages/v23-toucans-team-02)
 <!--END_SECTION:activity-->
