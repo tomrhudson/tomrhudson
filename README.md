@@ -18,9 +18,9 @@ After a 15+ years programming hiatus, I’m delving back into code and currently
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomrhudson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com//tomrhudson/getting-started-checklist/pull/7) in [tomrhudson/getting-started-checklist](https://github.com//tomrhudson/getting-started-checklist)
-2. 💪 Opened PR [#7](https://github.com//tomrhudson/getting-started-checklist/pull/7) in [tomrhudson/getting-started-checklist](https://github.com//tomrhudson/getting-started-checklist)
-3. 🎉 Merged PR [#6](https://github.com//tomrhudson/getting-started-checklist/pull/6) in [tomrhudson/getting-started-checklist](https://github.com//tomrhudson/getting-started-checklist)
-4. 💪 Opened PR [#6](https://github.com//tomrhudson/getting-started-checklist/pull/6) in [tomrhudson/getting-started-checklist](https://github.com//tomrhudson/getting-started-checklist)
-5. ❌ Closed PR [#20](https://github.com//chingu-voyages/v23-toucans-team-02/pull/20) in [chingu-voyages/v23-toucans-team-02](https://github.com//chingu-voyages/v23-toucans-team-02)
+1. 💪 Opened PR [#1](https://github.com//tomrhudson/README.md/pull/1) in [tomrhudson/README.md](https://github.com//tomrhudson/README.md)
+2. 🎉 Merged PR [#1](https://github.com//tomrhudson/github-activity-readme/pull/1) in [tomrhudson/github-activity-readme](https://github.com//tomrhudson/github-activity-readme)
+3. 💪 Opened PR [#1](https://github.com//tomrhudson/github-activity-readme/pull/1) in [tomrhudson/github-activity-readme](https://github.com//tomrhudson/github-activity-readme)
+4. 🎉 Merged PR [#1](https://github.com//tomrhudson/github-readme-stats/pull/1) in [tomrhudson/github-readme-stats](https://github.com//tomrhudson/github-readme-stats)
+5. 💪 Opened PR [#1](https://github.com//tomrhudson/github-readme-stats/pull/1) in [tomrhudson/github-readme-stats](https://github.com//tomrhudson/github-readme-stats)
 <!--END_SECTION:activity-->
