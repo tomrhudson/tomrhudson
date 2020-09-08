@@ -18,9 +18,9 @@ After a 15+ years programming hiatus, I’m delving back into code and currently
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomrhudson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com//tomrhudson/README.md/pull/2) in [tomrhudson/README.md](https://github.com//tomrhudson/README.md)
-2. 💪 Opened PR [#2](https://github.com//tomrhudson/README.md/pull/2) in [tomrhudson/README.md](https://github.com//tomrhudson/README.md)
-3. 🎉 Merged PR [#1](https://github.com//tomrhudson/README.md/pull/1) in [tomrhudson/README.md](https://github.com//tomrhudson/README.md)
-4. 💪 Opened PR [#1](https://github.com//tomrhudson/README.md/pull/1) in [tomrhudson/README.md](https://github.com//tomrhudson/README.md)
-5. 🎉 Merged PR [#1](https://github.com//tomrhudson/github-activity-readme/pull/1) in [tomrhudson/github-activity-readme](https://github.com//tomrhudson/github-activity-readme)
+1. 🎉 Merged PR [#24](https://github.com//chingu-voyages/v23-toucans-team-02/pull/24) in [chingu-voyages/v23-toucans-team-02](https://github.com//chingu-voyages/v23-toucans-team-02)
+2. 💪 Opened PR [#24](https://github.com//chingu-voyages/v23-toucans-team-02/pull/24) in [chingu-voyages/v23-toucans-team-02](https://github.com//chingu-voyages/v23-toucans-team-02)
+3. 🎉 Merged PR [#23](https://github.com//chingu-voyages/v23-toucans-team-02/pull/23) in [chingu-voyages/v23-toucans-team-02](https://github.com//chingu-voyages/v23-toucans-team-02)
+4. 🎉 Merged PR [#2](https://github.com//tomrhudson/README.md/pull/2) in [tomrhudson/README.md](https://github.com//tomrhudson/README.md)
+5. 💪 Opened PR [#2](https://github.com//tomrhudson/README.md/pull/2) in [tomrhudson/README.md](https://github.com//tomrhudson/README.md)
 <!--END_SECTION:activity-->
