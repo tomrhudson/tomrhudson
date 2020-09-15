@@ -18,9 +18,9 @@ After a 15+ years programming hiatus, I’m delving back into code and currently
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomrhudson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com//chingu-voyages/v23-toucans-team-02/pull/27) in [chingu-voyages/v23-toucans-team-02](https://github.com//chingu-voyages/v23-toucans-team-02)
-2. 💪 Opened PR [#27](https://github.com//chingu-voyages/v23-toucans-team-02/pull/27) in [chingu-voyages/v23-toucans-team-02](https://github.com//chingu-voyages/v23-toucans-team-02)
-3. ❗️ Opened issue [#25](https://github.com//chingu-voyages/v23-toucans-team-02/issues/25) in [chingu-voyages/v23-toucans-team-02](https://github.com//chingu-voyages/v23-toucans-team-02)
-4. 🗣 Commented on [#10](https://github.com//chingu-voyages/v23-toucans-team-02/issues/10) in [chingu-voyages/v23-toucans-team-02](https://github.com//chingu-voyages/v23-toucans-team-02)
-5. 🗣 Commented on [#6](https://github.com//chingu-voyages/v23-toucans-team-02/issues/6) in [chingu-voyages/v23-toucans-team-02](https://github.com//chingu-voyages/v23-toucans-team-02)
+1. ❗️ Opened issue [#29](https://github.com//chingu-voyages/v23-toucans-team-02/issues/29) in [chingu-voyages/v23-toucans-team-02](https://github.com//chingu-voyages/v23-toucans-team-02)
+2. 💪 Opened PR [#28](https://github.com//chingu-voyages/v23-toucans-team-02/pull/28) in [chingu-voyages/v23-toucans-team-02](https://github.com//chingu-voyages/v23-toucans-team-02)
+3. 🎉 Merged PR [#27](https://github.com//chingu-voyages/v23-toucans-team-02/pull/27) in [chingu-voyages/v23-toucans-team-02](https://github.com//chingu-voyages/v23-toucans-team-02)
+4. 💪 Opened PR [#27](https://github.com//chingu-voyages/v23-toucans-team-02/pull/27) in [chingu-voyages/v23-toucans-team-02](https://github.com//chingu-voyages/v23-toucans-team-02)
+5. ❗️ Opened issue [#25](https://github.com//chingu-voyages/v23-toucans-team-02/issues/25) in [chingu-voyages/v23-toucans-team-02](https://github.com//chingu-voyages/v23-toucans-team-02)
 <!--END_SECTION:activity-->
