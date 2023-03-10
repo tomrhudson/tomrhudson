@@ -14,7 +14,7 @@ While, I no longer program professionally, I tend to dabble from time-to-time. M
 - React(js) = client-side JavaScript framework
 - Node(js) = JavaScript web server
 
-[![Tom's github stats](https://github-readme-stats.vercel.app/api?username=tomrhudson&count_private=true?theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Tom's github stats](https://github-readme-stats.vercel.app/api?username=tomrhudson&count_private=true?theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomrhudson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
