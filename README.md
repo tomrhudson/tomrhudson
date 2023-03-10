@@ -15,6 +15,7 @@ While, I no longer program professionally, I tend to dabble from time-to-time. M
 - Node(js) = JavaScript web server
 
 ![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomrhudson&show_icons=true&theme=radical)
+
 ![Tom's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=tomrhudson&show_icons=true&theme=radical)
 
 <!--START_SECTION:activity-->
