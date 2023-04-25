@@ -3,7 +3,7 @@
 Hey there, my name is Tom Hudson. I started programming at a very young age, learning Atari BASIC on an [Atari XEGS](https://en.wikipedia.org/wiki/Atari_XEGS). I then moved into BASIC on an Apple IIe, then onto Pascal and dBase all while in middle school and high school. Professionally, my experience in programming was fat-client or n-tier architecture, often utilizing Oracle or SQL Server backends, VB, ASP, and some C#.
 
 
-I currently live in New Hampshire and provide IT & Quality [consulting services](https://www.linkedin.com/in/hudsonthomas/) across multiple business sectors. I also teach meditation, yoga, and am an mindful outdoor guide.
+I currently live in New Hampshire and provide IT & Quality [consulting services](https://www.linkedin.com/in/hudsonthomas/) across multiple business sectors. I also teach meditation, yoga, and am a mindful outdoor guide.
 
 While, I no longer program professionally, I tend to dabble from time-to-time. Most recently, I have been learning the following:
 
