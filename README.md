@@ -19,7 +19,7 @@ While, I no longer program professionally, I tend to dabble from time-to-time. M
 ![Tom's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=tomrhudson&show_icons=true&theme=radical)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#55](https://github.com/chingu-voyages/v23-toucans-team-02/pull/55) in [chingu-voyages/v23-toucans-team-02](https://github.com/chingu-voyages/v23-toucans-team-02)
+1. 🗣 Commented on [#1661](https://github.com/Significant-Gravitas/Auto-GPT/issues/1661) in [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 2. ❗️ Opened issue [#49](https://github.com/chingu-voyages/v23-toucans-team-02/issues/49) in [chingu-voyages/v23-toucans-team-02](https://github.com/chingu-voyages/v23-toucans-team-02)
 3. 🗣 Commented on [#47](https://github.com/chingu-voyages/v23-toucans-team-02/issues/47) in [chingu-voyages/v23-toucans-team-02](https://github.com/chingu-voyages/v23-toucans-team-02)
 4. ❗️ Opened issue [#48](https://github.com/chingu-voyages/v23-toucans-team-02/issues/48) in [chingu-voyages/v23-toucans-team-02](https://github.com/chingu-voyages/v23-toucans-team-02)
