@@ -16,7 +16,7 @@ I wrote my first lines of code in Atari BASIC on an Atari XEGS as a kid. From th
 
 ## Beyond the terminal
 
-I teach meditation and yoga, guide outdoor trips in New Hampshire, and have a pattern I didn't notice until it was obvious — I learn something deeply, then I teach it. Kenpo, shooting, self-defense, Linux, yoga. My goal as a consultant is the same: teach them how to fish and leave.
+I teach meditation and yoga, guide outdoor trips in New Hampshire, and have a pattern I didn't notice until it was obvious — I learn something deeply, then I teach it. Kenpo, shooting, personal defense, Linux, yoga. My goal as a consultant is the same: teach them how to fish and leave.
 
 ---
 
@@ -24,7 +24,7 @@ I teach meditation and yoga, guide outdoor trips in New Hampshire, and have a pa
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hudsonthomas)
 [![Website](https://img.shields.io/badge/tomrhudson.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tomrhudson.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thetomhudson)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/thetomhudson)
 
 ---
 
