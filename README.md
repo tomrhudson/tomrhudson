@@ -7,7 +7,9 @@ I'm a business operations consultant who uses ERP and AI as tools — not an ERP
 ## What I'm building right now
 
 **Python** — automation, tooling, and AI/LLM projects (solving real ops problems, not building demos)
+
 **Shell/Bash** — because some things just need a script and a cron job
+
 **MERN Stack** — MongoDB, Express.js, React.js, Node.js for full-stack work
 
 ## The backstory
@@ -45,7 +47,7 @@ I teach meditation and yoga, guide outdoor trips in New Hampshire, and have a pa
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomrhudson&show_icons=true&theme=dark&hide_border=true" alt="Tom's GitHub Stats" />
+  <img src="https://my-github-stats-six-psi.vercel.app/api?username=tomrhudson&show_icons=true&theme=dark&hide_border=true" alt="Tom's GitHub Stats" />
 </p>
 
 <p align="center">
@@ -53,5 +55,5 @@ I teach meditation and yoga, guide outdoor trips in New Hampshire, and have a pa
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomrhudson&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://my-github-stats-six-psi.vercel.app/api/top-langs/?username=tomrhudson&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
