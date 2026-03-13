@@ -47,7 +47,7 @@ I teach meditation and yoga, guide outdoor trips in New Hampshire, and have a pa
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://my-github-stats-six-psi.vercel.app/api?username=tomrhudson&show_icons=true&theme=dark&hide_border=true" alt="Tom's GitHub Stats" />
+  <img src="https://github-readme-stats-blond-sigma-29.vercel.app/api?username=tomrhudson&show_icons=true&theme=dark&hide_border=true" alt="Tom's GitHub Stats" />
 </p>
 
 <p align="center">
@@ -55,5 +55,5 @@ I teach meditation and yoga, guide outdoor trips in New Hampshire, and have a pa
 </p>
 
 <p align="center">
-  <img src="https://my-github-stats-six-psi.vercel.app/api/top-langs/?username=tomrhudson&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-blond-sigma-29.vercel.app/api/top-langs/?username=tomrhudson&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
