@@ -1,0 +1,42 @@
+name: Update Languages & Tools
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"   # Every Monday at 06:00 UTC
+  workflow_dispatch:        # Allow manual trigger from the Actions tab
+
+permissions:
+  contents: write           # Needed to commit back to the repo
+
+jobs:
+  update-languages:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run language updater
+        env:
+          GITHUB_TOKEN: ${{ secrets.LANGUAGES_PAT }}
+          GITHUB_USER:  tomrhudson
+          README_PATH:  README.md
+          TOP_N:        "10"
+        run: python scripts/update_languages.py
+
+      - name: Commit updated README
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet && echo "No changes to commit." && exit 0
+          git add README.md
+          git commit -m "chore: auto-update Languages & Tools badges [skip ci]"
+          git push
