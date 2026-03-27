@@ -10,7 +10,7 @@ I'm a business operations consultant who uses ERP and AI as tools — not an ERP
 
 **Shell/Bash** — because some things just need a script and a cron job
 
-**MERN Stack** — MongoDB, Express.js, React.js, Node.js for full-stack work
+**Swift** — macOS, iOS, watchOS for the Apple ecosystem
 
 ## The backstory
 
