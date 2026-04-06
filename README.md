@@ -26,7 +26,6 @@ I teach meditation and yoga, guide outdoor trips in New Hampshire, and have a pa
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hudsonthomas)
 [![Website](https://img.shields.io/badge/tomrhudson.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tomrhudson.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/thetomhudson)
 
 ---
 
